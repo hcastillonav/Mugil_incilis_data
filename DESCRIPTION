@@ -1,0 +1,9 @@
+Package: Mugil_incilis_stock_ID
+Title: Morphometric dataset of Mugil incilis from Colombian Caribbean estuaries
+Version: 1.0
+Authors@R: person("Harold", "Castillo Navarro", email = "harold.castillo@unisinu.edu.co", role = c("aut", "cre"))
+Description: This dataset contains morphometric and biological data of 196 specimens of Mugil incilis captured from three estuarine systems in the Colombian Caribbean. It supports analyses of length–weight relationships, truss network morphometrics, and multivariate modeling for stock discrimination.
+License: CC-BY-4.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
