@@ -1,4 +1,4 @@
-# Mugil_incilis_data
+# Mugil incilis data
 # Morphometric Dataset of *Mugil incilis* from Three Estuarine Systems of the Colombian Caribbean
 
 This dataset supports the study titled **"Stock identification of the striped mullet Mugil incilis (Actinopterygii: Mugilidae) using truss networks, morphometric relationships, and probabilistic models in three regions of the Colombian Caribbean"**, submitted to *Fisheries Research*.
@@ -54,7 +54,7 @@ str(datos)
 
 Please cite this dataset as:
 
-> Carrillo-Castro, K.E.., et al. (2025). *Stock identification of the striped mullet Mugil incilis (Actinopterygii: Mugilidae) using truss networks, morphometric relationships, and probabilistic models in three regions of the Colombian Caribbean*. Dataset. GitHub repository: https://github.com/[usuario]/Mugil-incilis-stock-ID
+> Carrillo-Castro, K.E., del Monte-Luna, P., Cardenas-Uribe, C., Castillo-Navarro, H., 2025. Stock identification of the striped mullet Mugil incilis (Actinopterygii: Mugilidae) using truss networks, morphometric relationships, and probabilistic models in three regions of the Colombian Caribbean. Dataset. Zenodo. https://doi.org/10.5281/zenodo.16115950
 
 ## 📬 Contact
 
